@@ -10,3 +10,8 @@ In this homework we are showcasing our ability to generate a random password fro
 · JavaScript
 
 ## Links
+![Screen Shot](./imgs/screenshot.png)
+![Screen Shot](./imgs/screenshot2.png)
+
+
+https://github.com/mcolumbusua21/Password-Generator.git

@@ -59,16 +59,11 @@ function writePassword() {
   passwordText.value = password;
 }
 
-//function generatePassword(){
-//return "Password should go here"
 
 
 
   generateBtn.addEventListener("click", writePassword);
-  // if (ruCharacters = !true && rlCharacters = !true && sCharacters = !true && nCharacters = true){
-  //   return password
-  // }
-
+  
 
 
 
